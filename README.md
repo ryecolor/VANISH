@@ -28,11 +28,7 @@
 
 ## 시스템 아키텍처
 
-![시스템 아키텍처 이미지](./resources/images/System_Architecture_Transparent_Background.png)
-
-### 다이어그램
-
-![image.png](attachment:ecb71603-9e51-4af1-8649-1e052555571f:image.png)
+![시스템 아키텍처 이미지](./PJT-VANISH/resources/images/System_Architecture_Transparent_Background.png)
 
 ---
 
